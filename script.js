@@ -1,5 +1,5 @@
-document.querySelector('#btn').addEventListener('click' newWindow)
+document.querySelector('#btn').addEventListener('click' )
 
-function newWindow(){
-    
-}
+// function newWindow(){
+
+// }
